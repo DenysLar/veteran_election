@@ -98,10 +98,6 @@ body {
   padding-top: 10px;
 }
 
-.main {
-  flex: 1 0 auto;
-}
-
 h1 {
   font-size: 21px;
   padding: 15px 0;
